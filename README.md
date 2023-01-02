@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=250&section=header&text=Seokhee%20Jeong&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=250&section=header&text=YongChanSon%20Jeong&fontSize=80)
 
 
 # 👋Hi, I'm YongChan Son
@@ -21,10 +21,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
  
 
-## Award 
-- **제4회 KB Future Finance A.I. Challenge - 최우수상(2위)**
 
 
 ## Training
 - **Naver BoostCamp AI NLP** 2022.09 ~ ing
--  **Codestates AIB 8th** 2021. 09. ~ 2022. 04
