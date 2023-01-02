@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=250&section=header&text=YongChanSon%20Jeong&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=250&section=header&text=YongChan%20Son&fontSize=80)
 
 
 # 👋Hi, I'm YongChan Son
