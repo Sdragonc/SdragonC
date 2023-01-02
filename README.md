@@ -4,8 +4,8 @@
 # 👋Hi, I'm YongChan Son
 <!-- <h3> Contact </h3> -->
 ## Contact
-<a href="mailto:seokhee051@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpsslssl@gmail.com"/></a>
-<a href="https://seokhee0516.tistory.com/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
+<a href="mailto:daniel15679@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpsslssl@gmail.com"/></a>
+<a href="https://developersdream.tistory.com/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
 
 ## Tech Stack
 
@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
  
 
